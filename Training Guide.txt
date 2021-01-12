@@ -1,0 +1,8 @@
+- put mitdb in new folder (mitdb in G:\ECG_Heartbeat_Classification\GP\bin\Debug)
+- put ECG_Prepare_Training_Data.py with mitdb
+- Create new folder
+- Open the python script and call WriteAllFiles method and pass the path of created folder
+- Run ECG_Prepare_Training_Data.py script 
+- Zip the created folder after running and upload the zip file to google drive
+- open ECG_Graduation_Project_Class_oriented in google colab
+- update your directory in the notebook and run the cells.

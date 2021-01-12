@@ -1,0 +1,33 @@
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.Form1.resources
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.Properties.Resources.resources
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.csproj.GenerateResource.Cache
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\GP.exe.config
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\GP.exe
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\GP.pdb
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.exe
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.pdb
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\CircularProgressBar.dll
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\WinFormAnimation.dll
+D:\MY COLLEGE\last year\GP\System\GP\GP\bin\Debug\CircularProgressBar.xml
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.csprojResolveAssemblyReference.cache
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.csproj.ResolveComReference.cache
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.OurResult.resources
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.Load_Signal.resources
+D:\MY COLLEGE\last year\GP\System\GP\GP\obj\Debug\GP.Details_Form.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\GP.exe.config
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.csproj.ResolveComReference.cache
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.pdb
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\GP.exe
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\GP.pdb
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\CircularProgressBar.dll
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\WinFormAnimation.dll
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\bin\Debug\CircularProgressBar.xml
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.csprojResolveAssemblyReference.cache
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.Details_Form.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.Form1.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.Load_Signal.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.OurResult.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.Properties.Resources.resources
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.csproj.GenerateResource.Cache
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.exe
+F:\Faculty of Computers and Informatics\4th Year\Graduation Project\GP\GP\obj\Debug\GP.WaitForm.resources
